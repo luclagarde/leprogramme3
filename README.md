@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://luclagarde.github.io/leprogramme3/](https://luclagarde.github.io/leprogramme3/)
+> Ouvrir cette belle page à [https://luclagarde.github.io/leprogramme3/](https://luclagarde.github.io/leprogramme3/)
 
 ## Utiliser en tant qu'extension
 ![Test logo](logomst.png)
