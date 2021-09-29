@@ -2,6 +2,8 @@
 > Ouvrir cette page à [https://luclagarde.github.io/leprogramme3/](https://luclagarde.github.io/leprogramme3/)
 
 ## Utiliser en tant qu'extension
+![Test logo](logomst.png)
+
 
 Ce référentiel peut être ajouté en tant qu'**extension** dans MakeCode.
 
